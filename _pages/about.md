@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Ramdom stuff. Sometimes sharing, sometimes reflecting, but mostly just venting.
+Ramdom stuff. Sometimes sharing, sometimes reflecting, but mostly just ranting.
 
